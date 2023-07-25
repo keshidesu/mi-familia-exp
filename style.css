@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=EB+Garamond&family=Victor+Mono:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+
+
+h1 {font-family: 'Cinzel', serif;
+  text-align: center;
+}
+
+.the_familia {
+  font-size: x-large;
+}
+
+#T { color: coral;
+
+}
+
+#h {color: aqua;
+
+}
+
+#e { color: darkkhaki;
+
+}
+
+#f {color: dodgerblue;
+
+}
+
+#A { color: darkviolet;
+
+}
+
+#m {color: cornflowerblue;
+
+}
+
+#I {color: crimson;
+
+}
+
+#l {color: hotpink;
+
+}
+
+#i {color: lightgreen;
+
+
+}
+
+#a {color: khaki;
+
+}
+
+.i {color: lightblue;}
+
+.history {
+  font-size: x-large;
+  text-align: center;
+  text-indent: 35px;
+    margin-top: 50px;
+  margin-bottom: 60px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.introductions{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p { 
+  color: aliceblue;
+  font-size:x-large;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+
+}
+
+h3 {
+  font-size: larger;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Maxine {color: rgb(252, 149, 212);
+
+}
+
+.maxine_fav {  color: rgb(252, 149, 212);
+  text-align: center;
+
+}
+ul.mango {
+  font-size: larger;
+  font-family: 'EB Garamond', serif;
+  display: inline-block;
+  text-align: left;}
+
+  body {background: rgb(39, 70, 39);
+  
+  }
+
+
+  .Mitsuki {color:darkorchid;
+    text-align: center;
+
+  }
+  
+  ul.plushie {
+    font-size: larger;
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+  text-align: left;}
+
+
+  .Keshi_cake {color:rgb(211, 228, 117);
+    text-align: center;
+
+  }
+  
+  ul.Keshi {
+    font-size: larger;
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+  text-align: left;}
+  
+
+
+  .Noire_butler {color:rgb(0, 0, 0);
+    text-align: center;
+
+  }
+  
+  ul.Noire_list {
+    font-size: larger;
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+  text-align: left;}
+  
+  .QQ {
+    color:#6b0808;
+    text-align: center;
+  }
+
+
+  .QQ_class{color:#6b0808;
+    text-align: center;
+
+  }
+  
+  ul.QQ_list {
+    font-size: larger;
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+  text-align: left;}
+  
+
+  .Panda {
+    color:#111791;
+    text-align: center;
+  }
+
+
+  .Panda_class{color:#111791;
+    text-align: center;
+
+  }
+  
+  ul.Panda_list {
+    font-size: larger;
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+  text-align: left;}
+
+ #top5 {
+font:x-large
+
+  }
+  
